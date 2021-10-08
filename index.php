@@ -76,7 +76,7 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
     }
     else{
         echo "WELLCome";
-        // wellcome massage
+        // welcome massage
     } ?></h4>
             </div>
           </div>
